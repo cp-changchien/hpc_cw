@@ -1,0 +1,461 @@
+commit 6123deb23ef5dcb9363fb60b8a97f64124078926
+Author: cp-changchien <cp.changchien@gmail.com>
+Date:   Thu Mar 23 03:06:17 2023 +0000
+
+    update
+
+M	README.MD
+
+commit 9ec65f7e2f5426c28f38332f2534a238651eec84
+Author: cp-changchien <cp.changchien@gmail.com>
+Date:   Thu Mar 23 03:05:24 2023 +0000
+
+    update readme
+
+M	README.MD
+
+commit 38c37012c3092e010f4d3b05d641411e585ca4f0
+Author: cp-changchien <cp.changchien@gmail.com>
+Date:   Thu Mar 23 03:04:36 2023 +0000
+
+    README.MD update
+
+M	README.MD
+
+commit 17cbb5e48cf02fe1744de617c63d34b71e0d3cd8
+Author: cp-changchien <cp.changchien@gmail.com>
+Date:   Thu Mar 23 02:56:16 2023 +0000
+
+    README.MD
+
+A	README.MD
+
+commit c52002b07ff85a838b750f529617e7d01fc192be
+Author: cp-changchien <cp.changchien@gmail.com>
+Date:   Thu Mar 23 02:27:26 2023 +0000
+
+    repo log update
+
+M	repository.log
+
+commit b41a2c9aca89286b86ab9c50e3938b7f624c2473
+Author: cp-changchien <cp.changchien@gmail.com>
+Date:   Thu Mar 23 02:25:21 2023 +0000
+
+    Parallelisation Fixed!!
+
+M	Makefile
+A	Results/ic_1_3d.jpg
+A	Results/ic_1_contour.jpg
+A	Results/ic_2_3d.jpg
+A	Results/ic_2_contour.jpg
+A	Results/ic_3_3d.jpg
+A	Results/ic_3_contour.jpg
+A	Results/ic_4_3d.jpg
+A	Results/ic_4_contour.jpg
+A	Results/runtime.eps
+A	Results/speedup.eps
+M	ShallowWater.cpp
+M	ShallowWater.h
+M	ShallowWater.o
+M	contour.jpg
+M	main
+M	main.cpp
+M	main.o
+M	output.txt
+M	repository.log
+D	test4.er/_x1.er/data.frameinfo
+D	test4.er/_x1.er/dyntext
+D	test4.er/_x1.er/er_archive.log
+D	test4.er/_x1.er/jclasses
+D	test4.er/_x1.er/log.xml
+D	test4.er/_x1.er/map.xml
+D	test4.er/_x1.er/overview
+D	test4.er/_x1.er/profile
+D	test4.er/_x1_f1.er/data.frameinfo
+D	test4.er/_x1_f1.er/dyntext
+D	test4.er/_x1_f1.er/jclasses
+D	test4.er/_x1_f1.er/log.xml
+D	test4.er/_x1_f1.er/map.xml
+D	test4.er/_x1_f1.er/overview
+D	test4.er/_x1_f1.er/profile
+D	test4.er/_x1_x1.er/data.frameinfo
+D	test4.er/_x1_x1.er/dyntext
+D	test4.er/_x1_x1.er/er_archive.log
+D	test4.er/_x1_x1.er/jclasses
+D	test4.er/_x1_x1.er/log.xml
+D	test4.er/_x1_x1.er/map.xml
+D	test4.er/_x1_x1.er/overview
+D	test4.er/_x1_x1.er/profile
+D	test4.er/archives/dash_UHyILZt997d
+D	test4.er/archives/ld-2.31.so_dnWuQRcLhw9
+D	test4.er/archives/libblas.so.3.9.0_1eKUsC07yK7
+D	test4.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+D	test4.er/archives/libc-2.31.so_dnWuQRcLhw9
+D	test4.er/archives/libcollector.so_kN_xj2QRtH5
+D	test4.er/archives/libdl-2.31.so_dnWuQRcLhw9
+D	test4.er/archives/libgcc_s.so.1_dnWuQRcLhw9
+D	test4.er/archives/libgomp.so.1.0.0_dnWuQRcLhw9
+D	test4.er/archives/libm-2.31.so_dnWuQRcLhw9
+D	test4.er/archives/libpthread-2.31.so_dnWuQRcLhw9
+D	test4.er/archives/librt-2.31.so_dnWuQRcLhw9
+D	test4.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+D	test4.er/archives/main_6yUVmJQygl1
+D	test4.er/archives/make_UHyILZt997d
+D	test4.er/data.frameinfo
+D	test4.er/dyntext
+D	test4.er/er_archive.log
+D	test4.er/jclasses
+D	test4.er/log.xml
+D	test4.er/map.xml
+D	test4.er/overview
+D	test4.er/profile
+
+commit 1658b51b4b8101c6340c8ac59bcd6a6b29648658
+Author: cp-changchien <cp.changchien@gmail.com>
+Date:   Mon Mar 20 17:33:18 2023 +0000
+
+    update index
+
+M	Makefile
+M	ShallowWater.cpp
+M	ShallowWater.h
+M	ShallowWater.o
+M	main
+M	output.txt
+M	repository.log
+M	test4.er/_x1.er/dyntext
+M	test4.er/_x1.er/er_archive.log
+M	test4.er/_x1.er/log.xml
+M	test4.er/_x1.er/map.xml
+M	test4.er/_x1.er/overview
+M	test4.er/_x1_f1.er/log.xml
+M	test4.er/_x1_f1.er/map.xml
+M	test4.er/_x1_f1.er/overview
+M	test4.er/_x1_x1.er/data.frameinfo
+M	test4.er/_x1_x1.er/dyntext
+M	test4.er/_x1_x1.er/er_archive.log
+M	test4.er/_x1_x1.er/log.xml
+M	test4.er/_x1_x1.er/map.xml
+M	test4.er/_x1_x1.er/overview
+M	test4.er/_x1_x1.er/profile
+M	test4.er/archives/main_6yUVmJQygl1
+M	test4.er/dyntext
+M	test4.er/er_archive.log
+M	test4.er/log.xml
+M	test4.er/map.xml
+M	test4.er/overview
+
+commit f948be2e6472ae0403792dc46bbb78b804bafeeb
+Author: cp-changchien <cp.changchien@gmail.com>
+Date:   Mon Mar 20 16:15:45 2023 +0000
+
+    apply optimisation
+
+M	3d.jpg
+M	Makefile
+M	ShallowWater.cpp
+M	ShallowWater.o
+M	contour.gnu
+M	main
+M	main.cpp
+M	main.o
+M	output.txt
+A	test4.er/_x1.er/data.frameinfo
+A	test4.er/_x1.er/dyntext
+A	test4.er/_x1.er/er_archive.log
+A	test4.er/_x1.er/jclasses
+A	test4.er/_x1.er/log.xml
+A	test4.er/_x1.er/map.xml
+A	test4.er/_x1.er/overview
+A	test4.er/_x1.er/profile
+A	test4.er/_x1_f1.er/data.frameinfo
+A	test4.er/_x1_f1.er/dyntext
+A	test4.er/_x1_f1.er/jclasses
+A	test4.er/_x1_f1.er/log.xml
+A	test4.er/_x1_f1.er/map.xml
+A	test4.er/_x1_f1.er/overview
+A	test4.er/_x1_f1.er/profile
+A	test4.er/_x1_x1.er/data.frameinfo
+A	test4.er/_x1_x1.er/dyntext
+A	test4.er/_x1_x1.er/er_archive.log
+A	test4.er/_x1_x1.er/jclasses
+A	test4.er/_x1_x1.er/log.xml
+A	test4.er/_x1_x1.er/map.xml
+A	test4.er/_x1_x1.er/overview
+A	test4.er/_x1_x1.er/profile
+A	test4.er/archives/dash_UHyILZt997d
+A	test4.er/archives/ld-2.31.so_dnWuQRcLhw9
+A	test4.er/archives/libblas.so.3.9.0_1eKUsC07yK7
+A	test4.er/archives/libboost_program_options.so.1.74.0_dnWuQRcLhw9
+A	test4.er/archives/libc-2.31.so_dnWuQRcLhw9
+A	test4.er/archives/libcollector.so_kN_xj2QRtH5
+A	test4.er/archives/libdl-2.31.so_dnWuQRcLhw9
+A	test4.er/archives/libgcc_s.so.1_dnWuQRcLhw9
+A	test4.er/archives/libgomp.so.1.0.0_dnWuQRcLhw9
+A	test4.er/archives/libm-2.31.so_dnWuQRcLhw9
+A	test4.er/archives/libpthread-2.31.so_dnWuQRcLhw9
+A	test4.er/archives/librt-2.31.so_dnWuQRcLhw9
+A	test4.er/archives/libstdc++.so.6.0.28_dnWuQRcLhw9
+A	test4.er/archives/main_6yUVmJQygl1
+A	test4.er/archives/make_UHyILZt997d
+A	test4.er/data.frameinfo
+A	test4.er/dyntext
+A	test4.er/er_archive.log
+A	test4.er/jclasses
+A	test4.er/log.xml
+A	test4.er/map.xml
+A	test4.er/overview
+A	test4.er/profile
+
+commit 019378a1291a3df25bfed5feea69bdfc89579425
+Author: cp-changchien <cp.changchien@gmail.com>
+Date:   Sat Mar 18 02:36:16 2023 +0000
+
+    ALL WORKING
+
+M	.vscode/settings.json
+M	3d.jpg
+M	ShallowWater.cpp
+M	ShallowWater.o
+M	main
+M	output.txt
+
+commit 0bfddfde8b3918c5bc1b2c8fbd8def4811aa75af
+Author: cp-changchien <cp.changchien@gmail.com>
+Date:   Fri Mar 17 01:08:46 2023 +0000
+
+    add blas functions (WORKING)
+
+M	ShallowWater.cpp
+M	ShallowWater.h
+M	ShallowWater.o
+M	main
+
+commit 6a0de825e7193a6ad9622ab5521c04807034503a
+Author: cp-changchien <cp.changchien@gmail.com>
+Date:   Thu Mar 16 22:58:54 2023 +0000
+
+    add palette to contour
+
+A	3d.gnu
+A	3d.jpg
+M	ShallowWater.cpp
+M	ShallowWater.h
+M	ShallowWater.o
+A	blues.pal
+A	contour.gnu
+A	contour.jpg
+M	main
+M	main.o
+M	output.txt
+
+commit e524167001fed09ca927f15d33356a407ecd28cc
+Author: cp-changchien <cp.changchien@gmail.com>
+Date:   Thu Mar 16 15:30:16 2023 +0000
+
+    for-loop FINALLY WORKING
+
+M	ShallowWater.cpp
+M	ShallowWater.h
+M	ShallowWater.o
+M	main
+M	output.txt
+
+commit db9608cb97478d7f04060c96e57be3d284e6dcb8
+Author: cp-changchien <cp.changchien@gmail.com>
+Date:   Wed Mar 15 23:00:23 2023 +0000
+
+    update algorithm for RK4
+
+M	ShallowWater.cpp
+M	ShallowWater.h
+M	ShallowWater.o
+M	main
+M	output.txt
+
+commit fc07331a3c274ee8a800225769277e4d551d7906
+Author: cp-changchien <cp.changchien@gmail.com>
+Date:   Tue Mar 14 16:52:41 2023 +0000
+
+    Backup before changing RK4 log.
+
+M	Makefile
+M	ShallowWater.cpp
+M	ShallowWater.h
+M	ShallowWater.o
+M	assignment.pdf
+M	main
+M	main.cpp
+M	main.o
+M	output.txt
+A	repository.log
+
+commit 8cf0ff51f4353c7d509833a14d82474a743abd41
+Author: cp-changchien <cp.changchien@gmail.com>
+Date:   Sat Mar 11 21:06:38 2023 +0000
+
+    update assignment pdf
+
+A	.vscode/launch.json
+M	.vscode/settings.json
+A	.vscode/tasks.json
+M	Makefile
+M	ShallowWater.cpp
+M	ShallowWater.h
+M	ShallowWater.o
+M	assignment.pdf
+M	main
+M	output.txt
+
+commit 3d6a722e763e6666920d6d6436307690f3cd4770
+Author: cp-changchien <cp.changchien@gmail.com>
+Date:   Sun Mar 5 21:06:54 2023 +0000
+
+    fixed periodic boundary conditions
+
+M	ShallowWater.cpp
+M	ShallowWater.h
+M	ShallowWater.o
+M	main
+M	output.txt
+
+commit 0ab8d0df0cec73dbba08257669a59363de06eeed
+Author: cp-changchien <cp.changchien@gmail.com>
+Date:   Fri Mar 3 23:22:01 2023 +0000
+
+    fixed time loop, but wrong result
+
+M	.vscode/settings.json
+M	Makefile
+M	ShallowWater.cpp
+M	ShallowWater.h
+M	ShallowWater.o
+M	main
+M	output.txt
+
+commit b088841c4404dd438d755451308466d49d9e15f0
+Author: cp-changchien <cp.changchien@gmail.com>
+Date:   Fri Mar 3 13:19:20 2023 +0000
+
+    fixed initial condition and update handout
+
+M	.vscode/settings.json
+M	ShallowWater.cpp
+M	ShallowWater.o
+M	assignment.pdf
+M	main
+M	output.txt
+
+commit ae28d599dee008ee6de441e52388e8117971fdb2
+Author: cp-changchien <cp.changchien@gmail.com>
+Date:   Wed Mar 1 23:11:38 2023 +0000
+
+    fixed initial conditions
+
+M	ShallowWater.cpp
+M	ShallowWater.h
+M	ShallowWater.o
+M	main
+M	output.txt
+
+commit 2a435603010038ffd3f62563efd359e78c41d8cb
+Author: cp-changchien <cp.changchien@gmail.com>
+Date:   Wed Mar 1 12:01:53 2023 +0000
+
+    fix output file function
+
+M	.vscode/c_cpp_properties.json
+M	Makefile
+M	ShallowWater.cpp
+M	ShallowWater.h
+A	ShallowWater.o
+M	main
+M	main.cpp
+M	main.o
+A	output.txt
+D	test.o
+
+commit 3d7fe0d30cf57f6a8d77aea61e43fe86e19b4e15
+Author: cp-changchien <cp.changchien@gmail.com>
+Date:   Mon Feb 27 23:41:39 2023 +0000
+
+    create Makefile
+
+A	Makefile
+M	main
+M	main.o
+
+commit 7d696a1f783837260a4e6856b2ff5f7eead7a0e6
+Author: cp-changchien <cp.changchien@gmail.com>
+Date:   Mon Feb 27 23:30:11 2023 +0000
+
+    add function in main
+
+M	main
+M	main.cpp
+M	main.o
+M	test.o
+
+commit 3d8d28785d806628df44253ba4249605e4c32fe8
+Author: cp-changchien <cp.changchien@gmail.com>
+Date:   Mon Feb 27 23:27:31 2023 +0000
+
+    write-up TimeIntegrate
+
+A	.vscode/settings.json
+M	ShallowWater.cpp
+M	ShallowWater.h
+
+commit e2b91a9253b0b3a550d4fc7f506cd33dd9bda128
+Author: cp-changchien <cp.changchien@gmail.com>
+Date:   Mon Feb 27 21:17:55 2023 +0000
+
+    SetInitialCondition done, start TimeIntegrate
+
+M	ShallowWater.cpp
+M	ShallowWater.h
+M	main
+M	main.cpp
+A	main.o
+A	test.o
+
+commit 886055de516a594271f6acb6e3054d578b410acb
+Author: cp-changchien <cp.changchien@gmail.com>
+Date:   Mon Feb 27 00:26:14 2023 +0000
+
+    commit
+
+M	ShallowWater.h
+
+commit 59affd7fdee982d9e23f61bbd85fcee05d263965
+Author: cp-changchien <cp.changchien@gmail.com>
+Date:   Mon Feb 27 00:25:58 2023 +0000
+
+    start SetInitialConditions
+
+M	ShallowWater.cpp
+A	main
+
+commit 89a8a1c138116e995b5225c47457baf91b682636
+Author: cp-changchien <cp.changchien@gmail.com>
+Date:   Sun Feb 26 02:18:38 2023 +0000
+
+    create ShallowWater.cpp and .h
+
+A	.vscode/c_cpp_properties.json
+A	ShallowWater.cpp
+M	ShallowWater.h
+M	main.cpp
+D	test
+
+commit b04e7a8103750a4c52938695604ea6e5f6abe409
+Author: cp-changchien <cp.changchien@gmail.com>
+Date:   Sun Feb 26 00:13:48 2023 +0000
+
+    initialisation
+
+A	ShallowWater.h
+A	assignment.pdf
+A	main.cpp
+A	test
