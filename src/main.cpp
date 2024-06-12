@@ -1,9 +1,9 @@
 #include <iostream>
-#include <omp.h>
-#include "ShallowWater.h"
+// #include <omp.h>
+#include "../include/ShallowWater.h"
 
 // add -lboost_program_options to compile
-#include <boost/program_options.hpp>
+#include "/opt/homebrew/opt/boost/include/boost/program_options.hpp"
 namespace po = boost::program_options;
 
 

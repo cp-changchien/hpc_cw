@@ -2,12 +2,7 @@
     "configurations": [
         {
             "name": "Mac",
-            "includePath": [
-                "${workspaceFolder}/**",
-                "/opt/homebrew/Cellar/boost/1.82.0_1/include/",
-                "/opt/homebrew/Cellar/libomp/16.0.6/include/",
-                "/opt/homebrew/Cellar/openblas/0.3.23/include/"
-            ],
+            "includePath": [],
             "defines": [],
             "macFrameworkPath": [
                 "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
